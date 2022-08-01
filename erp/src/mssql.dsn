@@ -1,0 +1,8 @@
+[ODBC]
+DRIVER=SQL Server
+UID=sa
+DATABASE=amgai
+WSID=AMGA-SVR02
+APP=Microsoft® Windows® Operating System
+SERVER=AMGA-SVR02\SQLEXPRESS
+Description=AMGA-SVR02
